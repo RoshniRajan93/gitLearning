@@ -6,3 +6,7 @@ git add -A => adding files to staging area
 git commit -m"Your Message" => adding files to local repositary
 
 git status => listing all untracked files
+
+git remote add name path => adding remote
+
+git pusg -u name master => push
